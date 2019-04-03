@@ -1,6 +1,6 @@
 # Android Snakes
 
- This is a hobby project where I created a simple snakes game.
+ This is a project for learning where I created a simple snakes game.
  
  I would love to receive any suggestions / improvements.
  
